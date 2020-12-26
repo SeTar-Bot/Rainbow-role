@@ -3,5 +3,5 @@
     "serverID": "",
     "roleID": "",
 
-    "interval": ""
+    "interval": "600000"
 }
