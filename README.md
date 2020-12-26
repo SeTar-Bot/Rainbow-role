@@ -16,6 +16,8 @@ Or use `run.bat` to install the recommended modules and run bot
 <br>
 **🔴Watch out your Interval time must be more than 60000 MS🔴**
 <br>
+**🔴I suggest you to use 600000 for your Interval🔴**
+<br>
 <br><br>
 #
 <br><br>
@@ -34,6 +36,8 @@ Or use `run.bat` to install the recommended modules and run bot
 **🔴 [CLICK](http://72.9.151.42/time/minutes-to-milliseconds-conversion.html)مدت زمان تغییر باید به فرمت میلی ثانیه باشد برای کانورت کرد 🔴**
 <br>
 **🔴مراقب باشید که تایم تغییرتون بیشتر از 60000 میلی ثانیه باشه🔴**
+<br>
+**🔴من بهتون 600000 رو به عنوان زمان تغییر پیشنهاد میکنم🔴**
 <br><br>
 **با تشکر
 <br><br>
