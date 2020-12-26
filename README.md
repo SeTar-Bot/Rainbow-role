@@ -33,7 +33,7 @@ Or use `run.bat` to install the recommended modules and run bot
 <br><br>
 **🔴ست کنید `config.json` فراموش نکنید که ایدی رول، ایدی سرور،  مدت زمان تغییر و توکن ربات رو داخل🔴**
 <br>
-**🔴 [CLICK](http://72.9.151.42/time/minutes-to-milliseconds-conversion.html)مدت زمان تغییر باید به فرمت میلی ثانیه باشد برای کانورت کرد 🔴**
+**🔴 کنید [CLICK](http://72.9.151.42/time/minutes-to-milliseconds-conversion.html) مدت زمان تغییر باید به فرمت میلی ثانیه باشد برای کانورت کردن  🔴**
 <br>
 **🔴مراقب باشید که تایم تغییرتون بیشتر از 60000 میلی ثانیه باشه🔴**
 <br>
