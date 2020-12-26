@@ -16,7 +16,7 @@ Or use `run.bat` to install the recommended modules and run bot
 <br>
 **🔴Watch out your Interval time must be more than 60000 MS🔴**
 <br>
-**🔴I suggest you to use 600000 for your Interval🔴**
+**🔴I suggest you to use 600000(10 Minutes) for your Interval🔴**
 <br>
 <br><br>
 #
@@ -37,7 +37,7 @@ Or use `run.bat` to install the recommended modules and run bot
 <br>
 **🔴مراقب باشید که تایم تغییرتون بیشتر از 60000 میلی ثانیه باشه🔴**
 <br>
-**🔴من بهتون 600000 رو به عنوان زمان تغییر پیشنهاد میکنم🔴**
+**🔴من بهتون 600000(10 دقیقه) رو به عنوان زمان تغییر پیشنهاد میکنم🔴**
 <br><br>
 **با تشکر
 <br><br>
