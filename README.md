@@ -14,7 +14,7 @@ Or use `run.bat` to install the recommended modules and run bot
 <br>
 **🔴The Interval Of Time Should Be In MS Format To convert minutes to MS [CLICK](http://72.9.151.42/time/minutes-to-milliseconds-conversion.html) 🔴**
 <br>
-**🔴Whatout your Interval time must be more than 60000 MS🔴**
+**🔴Watch out your Interval time must be more than 60000 MS🔴**
 <br>
 <br><br>
 #
